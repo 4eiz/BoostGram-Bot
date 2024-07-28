@@ -1,4 +1,4 @@
-![PHOTO](https://i.ibb.co/zxMCtJf/BOOSTGRAM.png)
+<img src="https://i.ibb.co/zxMCtJf/BOOSTGRAM.png" alt="PHOTO" style="width:100%;"/>
 
 
 ## Описание проекта
