@@ -1,4 +1,4 @@
-# [PHOTO]([image-url-here](https://i.ibb.co/zxMCtJf/BOOSTGRAM.png))
+![PHOTO]([image-url-here](https://i.ibb.co/zxMCtJf/BOOSTGRAM.png))
 
 
 ## Описание проекта
